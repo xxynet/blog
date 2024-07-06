@@ -1,13 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://xxynet.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xxynet.github.io/blog</link></image><lastBuildDate>Sat, 06 Jul 2024 11:32:24 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>用一块linux开发板搭建你的家庭服务器！</title><link>https://xxynet.github.io/blog/post/yong-yi-kuai-linux-kai-fa-ban-da-jian-ni-de-jia-ting-fu-wu-qi-%EF%BC%81.html</link><description>---
-title: '用一块Linux开发板搭建你的家庭服务器！'
-date: '2024-06-22'
-categories: 
-  - 'tec'
-tags: 
-  - 'linux'
-  - '开发板'
-coverImage: 'code01-scaled.jpg'
----
-
-两年前，我购置了一块香橙派开发板，使用它运行安卓系统，但是由于那个安卓系统兼容性问题，很多软件安装不上，这块板子就一直放在那里吃灰，后来由于购买的Windows迷你主机风扇突然发病整的家里像机场一样,所以便想到还有块开发板，装了个Ubuntu Server并将服务移植了过来。</description><guid isPermaLink="true">https://xxynet.github.io/blog/post/yong-yi-kuai-linux-kai-fa-ban-da-jian-ni-de-jia-ting-fu-wu-qi-%EF%BC%81.html</guid><pubDate>Sat, 06 Jul 2024 10:52:10 +0000</pubDate></item><item><title>Gmeek Deployed</title><link>https://xxynet.github.io/blog/post/Gmeek%20Deployed.html</link><description>I've successfully deployed this project !。</description><guid isPermaLink="true">https://xxynet.github.io/blog/post/Gmeek%20Deployed.html</guid><pubDate>Fri, 28 Jun 2024 11:52:32 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>XXYの博客</title><link>https://xxynet.github.io/blog</link><description>爱折腾，爱分享</description><copyright>XXYの博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xxynet.github.io/blog</link></image><lastBuildDate>Sat, 06 Jul 2024 16:08:46 +0000</lastBuildDate><managingEditor>XXYの博客</managingEditor><ttl>60</ttl><webMaster>XXYの博客</webMaster><item><title>Gmeek Deployed</title><link>https://xxynet.github.io/blog/post/Gmeek%20Deployed.html</link><description>I've successfully deployed this project !。</description><guid isPermaLink="true">https://xxynet.github.io/blog/post/Gmeek%20Deployed.html</guid><pubDate>Fri, 28 Jun 2024 11:52:32 +0000</pubDate></item></channel></rss>
